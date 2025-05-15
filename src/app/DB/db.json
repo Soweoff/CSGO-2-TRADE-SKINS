@@ -1,0 +1,174 @@
+{
+  "capsules": [
+    {
+      "id": "12",
+      "nome": "Sticker Capsule",
+      "price": "0.43",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "13",
+      "nome": "Sticker Capsule 2",
+      "price": "15.38",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "14",
+      "nome": "CS20 Sticker Capsule",
+      "price": "0.72",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "15",
+      "nome": "Halo Capsule",
+      "price": "0.80",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "16",
+      "nome": "The Boardroom Sticker Capsule",
+      "price": "1.04",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "17",
+      "nome": "Enfu Sticker Capsule",
+      "price": "0.93",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "18",
+      "nome": "Pinups Capsule",
+      "price": "0.80",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "19",
+      "nome": "Perfect World Sticker Capsule 2",
+      "price": "1.05",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "20",
+      "nome": "Ambush Sticker Capsule",
+      "price": "0.99",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "21",
+      "nome": "Perfect World Sticker Capsule 1",
+      "price": "1.08",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "22",
+      "nome": "2021 Community Sticker Capsule",
+      "price": "1.07",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "23",
+      "nome": "Half-Life: Alyx Sticker Capsule",
+      "price": "1.05",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "24",
+      "nome": "Skill Groups Capsule",
+      "price": "1.05",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "25",
+      "nome": "Warhammer 40,000 Sticker Capsule",
+      "price": "1.05",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "26",
+      "nome": "Team Roles Capsule",
+      "price": "1.08",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "27",
+      "nome": "Community Sticker Capsule 1",
+      "price": "1.00",
+      "imagem": "URL_da_imagem"
+    }
+  ],
+  "cases": [
+    {
+      "id": "11",
+      "nome": "CS:GO Weapon Case",
+      "price": "91.62",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "12",
+      "nome": "Operation Phoenix Weapon Case",
+      "price": "5.94",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "13",
+      "nome": "CS:GO Weapon Case 3",
+      "price": "10.25",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "14",
+      "nome": "Operation Vanguard Weapon Case",
+      "price": "4.54",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "15",
+      "nome": "eSports 2014 Summer Case",
+      "price": "12.34",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "16",
+      "nome": "Operation Breakout Weapon Case",
+      "price": "9.38",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "17",
+      "nome": "Huntsman Weapon Case",
+      "price": "12.44",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "18",
+      "nome": "Winter Offensive Weapon Case",
+      "price": "7.98",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "19",
+      "nome": "eSports 2013 Winter Case",
+      "price": "13.12",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "20",
+      "nome": "CS:GO Weapon Case 2",
+      "price": "12.91",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "21",
+      "nome": "Operation Bravo Case",
+      "price": "54.42",
+      "imagem": "URL_da_imagem"
+    },
+    {
+      "id": "22",
+      "nome": "eSports 2013 Case",
+      "price": "82.22",
+      "imagem": "URL_da_imagem"
+    }
+  ]
+}
